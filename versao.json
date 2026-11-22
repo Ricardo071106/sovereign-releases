@@ -1,0 +1,13 @@
+{
+ "ultima": "1.0.1",
+ "minima": "1.0.0",
+ "notas": [
+  "Conexões digitadas na tela (MetaTrader 5, IBKR, Flex, Alpaca), sem enviar arquivo",
+  "Conta real ligada na própria instalação, com frase de confirmação",
+  "Bloomberg automática com o Terminal aberto no mesmo computador",
+  "Aviso automático de versão nova",
+  "Login com o visual do site e botão ADVISOR no Terminal"
+ ],
+ "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
+ "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
+}
