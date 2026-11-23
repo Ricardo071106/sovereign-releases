@@ -1,11 +1,9 @@
 {
- "ultima": "1.0.3",
- "minima": "1.0.0",
+ "ultima": "1.0.4",
+ "minima": "1.0.4",
  "notas": [
-  "Portabilidade: os logins e chaves das conexões sempre entram no computador novo",
-  "A trava de emergência do GAIE vai junto no pacote",
-  "Ao fechar a janela, o Sovereign espera o robô gravar o relatório da sessão",
-  "Manual: programa no computador ou versão de servidor"
+  "Correção importante: a importação de dados (Portabilidade) agora funciona no programa instalado",
+  "Trocar o nome do workspace a qualquer momento (Advisor > Conexões)"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
