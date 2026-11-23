@@ -1,9 +1,9 @@
 {
- "ultima": "1.0.4",
+ "ultima": "1.0.5",
  "minima": "1.0.4",
  "notas": [
-  "Correção importante: a importação de dados (Portabilidade) agora funciona no programa instalado",
-  "Trocar o nome do workspace a qualquer momento (Advisor > Conexões)"
+  "Aba Limpar e zerar: apaga tudo desta instalação e volta ao primeiro acesso",
+  "Selo Demonstração/Conta real no Advisor"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
