@@ -1,10 +1,10 @@
 {
- "ultima": "1.1.6",
- "minima": "1.1.6",
+ "ultima": "1.1.7",
+ "minima": "1.1.7",
  "notas": [
-  "O sócio escolhe quais contas o robô opera",
-  "Visão geral com rentabilidade, aportes x patrimônio e alocação por ativo e setor",
-  "Contas IBKR dos sócios e botão Voltar a operar"
+  "Aba CONTAS GERIDAS no Terminal",
+  "Textos e Manual atualizados (contas MT5 e IBKR dos sócios, carteiras e autorizações)",
+  "O sócio escolhe quais contas o robô opera"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
