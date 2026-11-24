@@ -1,10 +1,10 @@
 {
- "ultima": "1.1.5",
- "minima": "1.1.5",
+ "ultima": "1.1.6",
+ "minima": "1.1.6",
  "notas": [
-  "Contas IBKR dos sócios",
-  "Botão Voltar a operar depois do vender tudo",
-  "Autorizações também no Advisor"
+  "O sócio escolhe quais contas o robô opera",
+  "Visão geral com rentabilidade, aportes x patrimônio e alocação por ativo e setor",
+  "Contas IBKR dos sócios e botão Voltar a operar"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
