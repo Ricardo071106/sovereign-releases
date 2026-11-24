@@ -1,9 +1,10 @@
 {
- "ultima": "1.1.8",
- "minima": "1.1.8",
+ "ultima": "1.1.9",
+ "minima": "1.1.9",
  "notas": [
-  "Autorizações: ativar ou desativar as contas IBKR e MT5 da empresa, sem vender",
-  "Conta desativada some da aba CONTAS GERIDAS"
+  "Terminal do sócio: a ordem é dividida entre as contas ligadas pelo custo e pelo caixa",
+  "Taxas de cada conta",
+  "CONTAS GERIDAS agrupado por sócio"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
