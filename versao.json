@@ -1,10 +1,9 @@
 {
- "ultima": "1.1.7",
- "minima": "1.1.7",
+ "ultima": "1.1.8",
+ "minima": "1.1.8",
  "notas": [
-  "Aba CONTAS GERIDAS no Terminal",
-  "Textos e Manual atualizados (contas MT5 e IBKR dos sócios, carteiras e autorizações)",
-  "O sócio escolhe quais contas o robô opera"
+  "Autorizações: ativar ou desativar as contas IBKR e MT5 da empresa, sem vender",
+  "Conta desativada some da aba CONTAS GERIDAS"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
