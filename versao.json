@@ -1,10 +1,11 @@
 {
- "ultima": "1.1.9",
- "minima": "1.1.9",
+ "ultima": "1.1.10",
+ "minima": "1.1.10",
  "notas": [
-  "Terminal do sócio: a ordem é dividida entre as contas ligadas pelo custo e pelo caixa",
-  "Taxas de cada conta",
-  "CONTAS GERIDAS agrupado por sócio"
+  "Sem simulação: sem corretora conectada a carteira fica zerada e nenhuma ordem é executada",
+  "Terminal mais fluido ao arrastar e redimensionar janelas",
+  "Gráficos sem animação nas atualizações",
+  "Programa mais leve: SEC desligada sem identificação e certificados corrigidos"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
