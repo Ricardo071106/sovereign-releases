@@ -1,10 +1,10 @@
 {
- "ultima": "1.1.0",
- "minima": "1.1.0",
+ "ultima": "1.1.1",
+ "minima": "1.1.1",
  "notas": [
-  "Versão 1.1.0: ordens sempre do usuário; o comitê avalia cada ordem depois de enviada",
-  "Investidor vê a rentabilidade só da própria parte",
-  "Ícone novo"
+  "Contas MetaTrader 5 dos sócios (só leitura) no Quadro de sócios",
+  "Investidor vê a rentabilidade só da própria parte e as próprias contas MT5",
+  "Ordens sempre do usuário; o comitê avalia cada ordem depois de enviada"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
