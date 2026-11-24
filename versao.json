@@ -1,11 +1,11 @@
 {
- "ultima": "1.1.10",
- "minima": "1.1.10",
+ "ultima": "1.1.11",
+ "minima": "1.1.11",
  "notas": [
-  "Sem simulação: sem corretora conectada a carteira fica zerada e nenhuma ordem é executada",
-  "Terminal mais fluido ao arrastar e redimensionar janelas",
-  "Gráficos sem animação nas atualizações",
-  "Programa mais leve: SEC desligada sem identificação e certificados corrigidos"
+  "Windows: o MetaTrader 5 é instalado, aberto e fechado sozinho; só digite login, senha e servidor",
+  "Manual do MetaTrader 5 no Mac e no Linux, com figuras",
+  "Voos: conta grátis da OpenSky na aba Conexões",
+  "Ao abrir, oferece apagar as versões antigas do Sovereign"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
