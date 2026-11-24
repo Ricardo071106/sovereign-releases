@@ -1,10 +1,10 @@
 {
- "ultima": "1.1.1",
- "minima": "1.1.1",
+ "ultima": "1.1.2",
+ "minima": "1.1.2",
  "notas": [
-  "Contas MetaTrader 5 dos sócios (só leitura) no Quadro de sócios",
-  "Investidor vê a rentabilidade só da própria parte e as próprias contas MT5",
-  "Ordens sempre do usuário; o comitê avalia cada ordem depois de enviada"
+  "Visão geral de cada sócio: dentro da empresa + contas MT5 de fora",
+  "Robô coletor 1.01: posições abertas das contas MT5",
+  "Contas MetaTrader 5 dos sócios (só leitura)"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
