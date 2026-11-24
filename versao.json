@@ -1,11 +1,10 @@
 {
- "ultima": "1.1.4",
- "minima": "1.1.4",
+ "ultima": "1.1.5",
+ "minima": "1.1.5",
  "notas": [
-  "Autorizações também no Advisor",
-  "Botão Sovereign Terminal unificado no topo",
-  "Vender tudo e deixar em caixa em destaque",
-  "Carteiras única, individuais ou misto"
+  "Contas IBKR dos sócios",
+  "Botão Voltar a operar depois do vender tudo",
+  "Autorizações também no Advisor"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
  "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
