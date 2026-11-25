@@ -8,5 +8,7 @@
   "Programa mais leve: SEC desligada sem identificação e certificados corrigidos"
  ],
  "mac": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-mac.zip",
- "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip"
+ "windows": "https://github.com/Ricardo071106/sovereign-releases/releases/latest/download/Sovereign-windows.zip",
+ "versao_mac": "1.1.11",
+ "versao_windows": "1.1.10"
 }
